@@ -65,8 +65,8 @@ Businesses often face challenges in tracking mobile sales performance across mul
 ---
 
 ## 📸9. Dashboard Screenshot
-![Mobile Sales Dashboard](./screenshot.png)
-mobiles sales dashboard:[ ]
+![Mobile Sales Dashboard](https://github.com/vikramanand27/mobile-sales-/blob/main/mobile%20sales%20screenshot.png)
+
 
 ---
 
